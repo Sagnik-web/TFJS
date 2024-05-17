@@ -31,16 +31,17 @@ const connvertion_01 =()=>{
     // console.log(tf.cast(strVal,'bool')); XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
 
 
+
+
+
+
+
+
+
+
+
+
     
-
-
-
-
-
-
-
-
-
 
 
 }
