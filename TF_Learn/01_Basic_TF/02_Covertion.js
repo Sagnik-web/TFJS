@@ -1,4 +1,4 @@
-const connvertion_01 =()=>{
+const connvertion_02 =()=>{
     const tf = require('@tensorflow/tfjs')
 
 
@@ -45,4 +45,4 @@ const connvertion_01 =()=>{
 
 
 }
-module.exports = connvertion_01
+module.exports = connvertion_02
