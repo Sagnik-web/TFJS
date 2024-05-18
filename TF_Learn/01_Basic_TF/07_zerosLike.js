@@ -1,4 +1,4 @@
-const zeroLike_05 = ()=>{
+const zeroLike_07 = ()=>{
 
 const tf = require('@tensorflow/tfjs')
 
@@ -31,4 +31,4 @@ zeroLike.print()
 
 }
 
-module.exports = zeroLike_05
+module.exports = zeroLike_07
